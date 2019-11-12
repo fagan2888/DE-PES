@@ -1,0 +1,169 @@
+,Africa,Asia,Australia,Europe,North America,South America,Global
+1,sql,python,python,python,python,python,python
+2,programming,programming,sql,sql,sql,sql,sql
+3,etl,sql,aws,programming,programming,os,programming
+4,aws,java,programming,spark,aws,programming,spark
+5,python,spark,etl,aws,etl,spark,aws
+6,hadoop,hadoop,azure,java,spark,aws,java
+7,agile,machine learning,spark,machine learning,java,java,hadoop
+8,business intelligence,etl,data warehouse,hadoop,agile,hadoop,etl
+9,functional,aws,agile,r,hadoop,machine learning,machine learning
+10,spark,r,business intelligence,etl,scripting,scala,r
+11,scrum,scala,r,scala,business intelligence,r,scala
+12,r,kafka,security,agile,functional,nosql,agile
+13,excel,algorithm,tableau,kafka,nosql,etl,business intelligence
+14,machine learning,statistics,redshift,azure,data warehouse,business intelligence,kafka
+15,data warehouse,linux,hadoop,business intelligence,linux,hive,azure
+16,azure,hive,scala,nosql,kafka,tableau,nosql
+17,data pipeline,ai,java,linux,server,data warehouse,linux
+18,postgres,scripting,machine learning,hive,hive,airflow,hive
+19,statistics,data warehouse,scripting,algorithm,scala,agile,algorithm
+20,server,business intelligence,c#,git,security,security,data warehouse
+21,nosql,nosql,network,devops,machine learning,kafka,functional
+22,sql server,azure,snowflake,ai,data pipeline,functional,scripting
+23,network,data pipeline,c++,docker,azure,redshift,statistics
+24,data visualization,security,s3,functional,algorithm,statistics,security
+25,ruby,functional,hive,airflow,shell,linux,network
+26,rest,network,server,network,sql server,scripting,git
+27,redshift,mathematics,data lake,statistics,network,excel,server
+28,ssas,c++,sql server,data warehouse,git,mapreduce,ai
+29,java,redshift,devops,javascript,airflow,git,redshift
+30,security,tableau,mathematics,server,s3,postgres,postgres
+31,data structures,postgres,project management,elasticsearch,postgres,google cloud,devops
+32,data architecture,oracle,google cloud,security,redshift,cassandra,airflow
+33,devops,javascript,data pipeline,postgres,oracle,algorithm,tableau
+34,oracle,server,transact-sql,mathematics,mongodb,rest,docker
+35,s3,deep learning,postgres,google cloud,data lake,mathematics,javascript
+36,mongodb,hbase,functional,scripting,devops,c,data pipeline
+37,cassandra,data structures,airflow,tableau,rest,azure,mathematics
+38,storm,cassandra,nosql,redshift,javascript,oracle,oracle
+39,scripting,shell,git,oracle,excel,server,sql server
+40,redis,mongodb,c,kubernetes,docker,docker,s3
+41,gdpr,c,javascript,rest,data structures,impala,google cloud
+42,snowflake,agile,kafka,hbase,data architecture,data lake,mongodb
+43,mathematics,git,linux,c,kubernetes,pandas,c++
+44,hive,docker,azure data factory,scrum,project management,deep learning,data lake
+45,tableau,airflow,oracle,mongodb,tableau,data architecture,data structures
+46,powerbi,google cloud,hdfs,cassandra,snowflake,javascript,cassandra
+47,data cleaning,jenkins,excel,sql server,elasticsearch,s3,hbase
+48,pig,s3,statistics,data lake,r,hdfs,elasticsearch
+49,mapreduce,project management,data structures,s3,statistics,data pipeline,c
+50,project management,sql server,powerbi,deep learning,c++,c#,rest
+51,presto,data visualization,apache nifi,c#,mathematics,network,kubernetes
+52,json,data lake,json,hdfs,json,c++,scrum
+53,mahout,devops,html,data pipeline,scrum,sql server,os
+54,linux,pandas,css,c++,c#,mongodb,c#
+55,javascript,c#,impala,jenkins,jenkins,luigi,shell
+56,c#,ruby,deep learning,os,cassandra,hbase,deep learning
+57,algorithm,os,scrum,data structures,impala,elasticsearch,project management
+58,c++,mapreduce,http,data visualization,luigi,presto,data visualization
+59,c,hdfs,ai,impala,hbase,oozie,jenkins
+60,software engineer,kubernetes,backend,data architecture,http,flume,hdfs
+61,sap,backend,algorithm,http,google cloud,kubernetes,data architecture
+62,git,numpy,data wrangling,sas,transact-sql,data visualization,excel
+63,shell,storm,sas,flink,mapreduce,sqoop,mapreduce
+64,scala,bash,powershell,project management,sqoop,ruby,http
+65,sas,software engineer,storm,pig,presto,ai,impala
+66,kafka,sas,hbase,software engineer,data visualization,http,snowflake
+67,ip,flink,data visualization,bash,hdfs,shell,ruby
+68,http,scikit,docker,mapreduce,oop,pig,flink
+69,san,data architecture,oop,sap,c,devops,software engineer
+70,os,elasticsearch,react,oozie,ruby,map reduce,backend
+71,html,computer vision,mapreduce,backend,storm,data structures,storm
+72,hbase,jupyter,ssas,shell,oracle sql,snowflake,sas
+73,docker,http,ruby,microservices,flume,software engineer,pandas
+74,transact-sql,excel,pig,pandas,ai,powerbi,pig
+75,tomcat,apache nifi,apache beam,snowflake,flink,oop,json
+76,selenium,rest,selenium,json,sap,project management,bash
+77,map reduce,scrum,nodejs,maven,oozie,flink,sap
+78,kubernetes,luigi,encryption,powerbi,vertica,sas,luigi
+79,hdfs,pig,django,azure data factory,software engineer,jupyter,oozie
+80,deep learning,redis,rest,storm,san,storm,powerbi
+81,bash,sap,software engineer,scikit,os,backend,transact-sql
+82,apache nifi,apache beam,jupyter,luigi,apache nifi,scrum,apache nifi
+83,soa,impala,jenkins,react,cli,sap,presto
+84,react,powerbi,ip,excel,pig,numpy,jupyter
+85,pandas,maven,kubernetes,jupyter,nodejs,jenkins,scikit
+86,microservices,transact-sql,sap,yarn,html,redis,numpy
+87,jenkins,powershell,mpp,presto,bash,quicksight,redis
+88,impala,oozie,mongodb,cli,backend,data cleaning,microservices
+89,django,json,cli,apache nifi,solr,oracle sql,maven
+90,data wrangling,angular,shell,ruby,ssas,scikit,sqoop
+91,css,css,os,redis,jupyter,cli,azure data factory
+92,computer vision,ip,san,apache beam,pandas,apache nifi,flume
+93,cli,sqoop,lucene,frontend,sparksql,bash,react
+94,backend,yarn,gdpr,computer vision,map reduce,apache beam,computer vision
+95,apache beam,neural network,elasticsearch,numpy,iam,microservices,apache beam
+96,algebra,presto,bash,flume,concur,html,oop
+97,ai,html,mahout,sqoop,powershell,css,yarn
+98,zookeeper,mpp,zookeeper,time series,mpp,rapidminer,powershell
+99,solr,flume,yarn,gdpr,encryption,json,html
+100,oop,microservices,wms,transact-sql,redis,ambari,cli
+101,oauth,web development,web scraping,oop,microservices,computer vision,css
+102,numpy,mllib,web development,django,kerberos,transact-sql,ip
+103,luigi,react,vertica,ip,quicksight,knime,nodejs
+104,jupyter,mahout,tomcat,powershell,ip,angular,oracle sql
+105,ide,data cleaning,time series,data wrangling,react,time series,ssas
+106,heron,map reduce,tensor flow,nodejs,numpy,ssas,data cleaning
+107,haskell,web scraping,ssl,data cleaning,kudu,sparksql,angular
+108,google cloud,nodejs,ssh,oracle sql,deep learning,react,gdpr
+109,flink,encryption,sqoop,css,css,probability,san
+110,eclipse,azure data factory,sqlite,angular,zookeeper,apache crunch,frontend
+111,data lake,vertica,sparksql,web development,yarn,algebra,time series
+112,circleci,time series,solr,html,ssl,pattern recognition,django
+113,azure data factory,san,soa,solr,maven,osi,data wrangling
+114,airflow,probability,scipy,san,hue,mpp,web development
+115,yarn,zookeeper,scikit,kerberos,django,maven,vertica
+116,wms,data wrangling,sandbox,ssas,web scraping,ip,solr
+117,web scraping,ssl,redis,scipy,microsoft power bi,cron,mpp
+118,web development,snowflake,rapidminer,apache crunch,angular,tomcat,map reduce
+119,vertica,frontend,quicksight,selenium,soa,powershell,kerberos
+120,time series,tomcat,probability,ssl,apache beam,kudu,web scraping
+121,tensor flow,kerberos,presto,oauth,selenium,jwt,ssl
+122,ssl,ssh,phoenix,probability,azure data factory,selenium,encryption
+123,ssh,django,pattern recognition,ide,jdbc,jdbc,selenium
+124,sqoop,cli,pandas,web scraping,scikit,web development,mahout
+125,sqlite,eclipse,osi,eclipse,frontend,ssh,probability
+126,sparksql,oop,oracle sql,wms,powerbi,solr,neural network
+127,scipy,greenplum,oozie,microsoft power bi,haskell,nodejs,scipy
+128,scikit,oracle sql,oauth,cron,sas,zookeeper,quicksight
+129,sandbox,circleci,numpy,vertica,gdpr,yarn,microsoft power bi
+130,rapidminer,selenium,neural network,mpp,computer vision,wms,iam
+131,quicksight,microsoft power bi,mllib,kudu,wms,web scraping,sparksql
+132,probability,scipy,microsoft power bi,tensor flow,time series,vertica,mllib
+133,powershell,ssas,microservices,rapidminer,scipy,tensor flow,zookeeper
+134,phoenix,solr,maven,knime,phoenix,ssl,kudu
+135,pattern recognition,soa,map reduce,circleci,osi,sqlite,apache crunch
+136,osi,oauth,luigi,sandbox,neural network,soa,eclipse
+137,oracle sql,haskell,kudu,iam,anaconda,scipy,oauth
+138,oozie,ambari,knime,sparksql,web development,sandbox,tomcat
+139,nodejs,quicksight,kerberos,algebra,tomcat,san,soa
+140,neural network,iam,jwt,quicksight,tensor flow,phoenix,hue
+141,mpp,wms,jetty,calculus,ssh,oauth,ide
+142,mllib,tensor flow,jdbc,soa,sqlite,neural network,circleci
+143,microsoft power bi,pattern recognition,identity access management,tomcat,sandbox,mllib,wms
+144,maven,rapidminer,ide,hue,rapidminer,microsoft power bi,rapidminer
+145,lucene,knime,iam,anaconda,probability,mahout,knime
+146,kudu,jdbc,hue,neural network,pattern recognition,lucene,tensor flow
+147,knime,kudu,heron,encryption,oauth,kerberos,concur
+148,kerberos,ide,haskell,map reduce,mllib,jetty,cron
+149,jwt,drill,greenplum,osi,mahout,identity access management,jdbc
+150,jetty,sparksql,frontend,mllib,lucene,ide,greenplum
+151,jdbc,jwt,flume,drill,knime,iam,algebra
+152,identity access management,hue,flink,jdbc,jwt,hue,ssh
+153,iam,sqlite,eclipse,greenplum,jetty,heron,sandbox
+154,hue,sandbox,drill,mahout,identity access management,haskell,calculus
+155,greenplum,phoenix,data cleaning,jwt,ide,greenplum,ambari
+156,frontend,osi,data architecture,identity access management,heron,gdpr,haskell
+157,flume,lucene,cron,phoenix,greenplum,frontend,anaconda
+158,encryption,jetty,concur,zookeeper,eclipse,encryption,osi
+159,elasticsearch,identity access management,computer vision,sqlite,drill,eclipse,pattern recognition
+160,drill,heron,circleci,jetty,data wrangling,drill,drill
+161,cron,gdpr,cassandra,arrow,data cleaning,django,jwt
+162,concur,cron,calculus,ambari,cron,data wrangling,identity access management
+163,calculus,concur,arrow,ssh,circleci,concur,phoenix
+164,arrow,calculus,apache crunch,pattern recognition,calculus,circleci,sqlite
+165,apache crunch,arrow,angular,lucene,arrow,calculus,lucene
+166,angular,apache crunch,anaconda,heron,apache crunch,azure data factory,jetty
+167,anaconda,anaconda,ambari,haskell,ambari,arrow,heron
+168,ambari,algebra,algebra,concur,algebra,anaconda,arrow
