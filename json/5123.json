@@ -1,0 +1,23 @@
+{
+    "index": 5123,
+    "title": "Data Engineer",
+    "location": "Canberra, AU",
+    "level": "Entry level",
+    "skills": [
+        "python",
+        "scripting",
+        "oracle",
+        "hbase",
+        "aws",
+        "etl",
+        "hdfs",
+        "spark",
+        "programming",
+        "hive",
+        "agile"
+    ],
+    "country": "AU",
+    "continent": "Australia",
+    "url": "https://au.linkedin.com/jobs/view/data-engineer-at-capgemini-1505176573?refId=a1957018-00fd-49a5-acc7-df9ee204f811&position=24&pageNum=0&trk=guest_job_search_job-result-card_result-card_full-click",
+    "eng-level": "Entry level"
+}

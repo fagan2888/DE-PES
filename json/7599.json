@@ -1,0 +1,25 @@
+{
+    "index": 7599,
+    "title": "Data Engineer",
+    "location": "Bengaluru, Karnataka, India",
+    "level": "Associate",
+    "skills": [
+        "python",
+        "cassandra",
+        "web scraping",
+        "s3",
+        "mongodb",
+        "redshift",
+        "r",
+        "functional",
+        "postgres",
+        "spark",
+        "project management",
+        "data structures",
+        "redis"
+    ],
+    "country": "IN",
+    "continent": "Asia",
+    "url": "https://in.linkedin.com/jobs/view/data-engineer-at-rentomojo-1525319783?refId=5ceda8d3-e2c0-49ab-b25e-9e2565f6564c&position=4&pageNum=0&trk=guest_job_search_job-result-card_result-card_full-click",
+    "eng-level": "Associate"
+}

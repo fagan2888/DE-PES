@@ -1,0 +1,31 @@
+{
+    "index": 5623,
+    "title": "Data Engineer",
+    "location": "Genova, Liguria, Italia",
+    "level": "Livello medio",
+    "skills": [
+        "hbase",
+        "aws",
+        "etl",
+        "kafka",
+        "project management",
+        "hive",
+        "nosql",
+        "flink",
+        "ai",
+        "agile",
+        "s3",
+        "pig",
+        "sql",
+        "kudu",
+        "hdfs",
+        "mapreduce",
+        "spark",
+        "http",
+        "hadoop"
+    ],
+    "country": "IT",
+    "continent": "Europe",
+    "url": "https://it.linkedin.com/jobs/view/data-engineer-at-gruppo-iren-1468003515?refId=7b4f86b5-d550-4e89-b029-3003f5d25aa5&position=15&pageNum=0&trk=guest_job_search_job-result-card_result-card_full-click",
+    "eng-level": "Associate"
+}

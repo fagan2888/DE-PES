@@ -1,0 +1,31 @@
+{
+    "index": 54,
+    "title": "Senior Data Engineer",
+    "location": "Burnaby, CA",
+    "level": "Not Applicable",
+    "skills": [
+        "security",
+        "aws",
+        "etl",
+        "programming",
+        "python",
+        "nosql",
+        "functional",
+        "postgres",
+        "data structures",
+        "docker",
+        "oop",
+        "network",
+        "kubernetes",
+        "s3",
+        "algorithm",
+        "sql",
+        "scala",
+        "spark",
+        "rest"
+    ],
+    "country": "CA",
+    "continent": "North America",
+    "url": "https://ca.linkedin.com/jobs/view/senior-data-engineer-at-infoblox-1527315699?refId=c93c153b-400f-42d9-8e18-064e6749796c&position=11&pageNum=0&trk=guest_job_search_job-result-card_result-card_full-click",
+    "eng-level": "Not specified"
+}

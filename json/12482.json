@@ -1,0 +1,25 @@
+{
+    "index": 12482,
+    "title": "Data Engineer",
+    "location": "Amsterdam, NL",
+    "level": "Instapniveau",
+    "skills": [
+        "python",
+        "vertica",
+        "snowflake",
+        "etl",
+        "machine learning",
+        "sql",
+        "kafka",
+        "programming",
+        "data structures",
+        "hadoop",
+        "data warehouse",
+        "presto",
+        "redshift"
+    ],
+    "country": "NL",
+    "continent": "Europe",
+    "url": "https://nl.linkedin.com/jobs/view/data-engineer-at-tripactions-1518272181?refId=7fc37368-cc0a-4195-96f5-15791756b6ba&position=23&pageNum=0&trk=guest_job_search_job-result-card_result-card_full-click",
+    "eng-level": "Entry level"
+}

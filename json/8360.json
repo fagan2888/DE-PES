@@ -1,0 +1,21 @@
+{
+    "index": 8360,
+    "title": "Data Engineer",
+    "location": "Berlin Area, Germany",
+    "level": "Berufseinsteiger",
+    "skills": [
+        "python",
+        "nosql",
+        "aws",
+        "flink",
+        "machine learning",
+        "sql",
+        "kafka",
+        "data pipeline",
+        "spark"
+    ],
+    "country": "DE",
+    "continent": "Europe",
+    "url": "https://de.linkedin.com/jobs/view/data-engineer-at-lennon-wright-1525326452?refId=4a082f3b-7fa8-492f-9b34-5072ee55102a&position=16&pageNum=0&trk=guest_job_search_job-result-card_result-card_full-click",
+    "eng-level": "Entry level"
+}

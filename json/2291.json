@@ -1,0 +1,29 @@
+{
+    "index": 2291,
+    "title": "Data Engineer",
+    "location": "H\u00f8rsholm, DK",
+    "level": "Nyuddannet",
+    "skills": [
+        "python",
+        "nosql",
+        "cassandra",
+        "hbase",
+        "kubernetes",
+        "airflow",
+        "linux",
+        "sqoop",
+        "sql",
+        "postgres",
+        "spark",
+        "programming",
+        "hive",
+        "data visualization",
+        "hadoop",
+        "data warehouse",
+        "docker"
+    ],
+    "country": "DK",
+    "continent": "Europe",
+    "url": "https://dk.linkedin.com/jobs/view/data-engineer-at-coresearch-a-s-1547742535?refId=829e5630-1d59-4c9c-84ef-988294bc50f9&position=23&pageNum=0&trk=guest_job_search_job-result-card_result-card_full-click",
+    "eng-level": "Entry level"
+}

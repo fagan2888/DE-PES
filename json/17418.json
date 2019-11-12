@@ -1,0 +1,23 @@
+{
+    "index": 17418,
+    "title": "Data Engineer",
+    "location": "Ontario, CA",
+    "level": "Entry level",
+    "skills": [
+        "postgres",
+        "etl",
+        "airflow",
+        "python",
+        "data warehouse",
+        "aws",
+        "programming",
+        "agile",
+        "data lake",
+        "spark",
+        "apache nifi"
+    ],
+    "country": "CA",
+    "continent": "North America",
+    "url": "https://ca.linkedin.com/jobs/view/data-engineer-at-isgsearch-1487614091?refId=dd3f3338-3bf7-46ad-a4ca-d47638a50069&position=1&pageNum=0&trk=guest_job_search_job-result-card_result-card_full-click",
+    "eng-level": "Entry level"
+}

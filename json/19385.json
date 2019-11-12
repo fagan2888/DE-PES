@@ -1,0 +1,32 @@
+{
+    "index": 19385,
+    "title": "Data Engineer",
+    "location": "Pozna\u0144, PL",
+    "level": "Kadra \u015bredniego szczebla",
+    "skills": [
+        "aws",
+        "etl",
+        "r",
+        "kafka",
+        "programming",
+        "hive",
+        "jupyter",
+        "python",
+        "nosql",
+        "solr",
+        "ai",
+        "azure",
+        "elasticsearch",
+        "java",
+        "business intelligence",
+        "machine learning",
+        "pig",
+        "scala",
+        "spark",
+        "hadoop"
+    ],
+    "country": "PL",
+    "continent": "Europe",
+    "url": "https://pl.linkedin.com/jobs/view/data-engineer-at-nordcloud-1525389927?refId=c44172aa-bf7b-496a-a64c-8a521a766430&position=4&pageNum=0&trk=guest_job_search_job-result-card_result-card_full-click",
+    "eng-level": "Associate"
+}

@@ -1,0 +1,25 @@
+{
+    "index": 17046,
+    "title": "Python Data Engineer",
+    "location": "Philadelphia, PA, US",
+    "level": "Entry level",
+    "skills": [
+        "python",
+        "scripting",
+        "s3",
+        "aws",
+        "airflow",
+        "functional",
+        "data pipeline",
+        "cli",
+        "shell",
+        "spark",
+        "hadoop",
+        "data warehouse",
+        "docker"
+    ],
+    "country": "US",
+    "continent": "North America",
+    "url": "https://www.linkedin.com/jobs/view/python-data-engineer-at-the-job-network-1566187349?refId=0bd4d713-11bf-41d1-8293-65931c92455f&position=10&pageNum=0&trk=guest_job_search_job-result-card_result-card_full-click",
+    "eng-level": "Entry level"
+}

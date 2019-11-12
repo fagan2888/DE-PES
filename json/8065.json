@@ -1,0 +1,29 @@
+{
+    "index": 8065,
+    "title": "Data Engineer",
+    "location": "Bengaluru, Karnataka, India",
+    "level": "Mid-Senior level",
+    "skills": [
+        "python",
+        "vertica",
+        "cassandra",
+        "hbase",
+        "s3",
+        "mongodb",
+        "backend",
+        "flink",
+        "zookeeper",
+        "functional",
+        "kubernetes",
+        "kafka",
+        "scala",
+        "spark",
+        "programming",
+        "docker",
+        "redshift"
+    ],
+    "country": "IN",
+    "continent": "Asia",
+    "url": "https://in.linkedin.com/jobs/view/data-engineer-at-goibibo-1486292680?refId=5ceda8d3-e2c0-49ab-b25e-9e2565f6564c&position=5&pageNum=0&trk=guest_job_search_job-result-card_result-card_full-click",
+    "eng-level": "Mid-Senior"
+}

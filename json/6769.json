@@ -1,0 +1,25 @@
+{
+    "index": 6769,
+    "title": "Data Engineer",
+    "location": "Toronto, Ontario, Canada",
+    "level": "Mid-Senior level",
+    "skills": [
+        "postgres",
+        "etl",
+        "airflow",
+        "python",
+        "spark",
+        "network",
+        "data warehouse",
+        "aws",
+        "programming",
+        "agile",
+        "data lake",
+        "security",
+        "apache nifi"
+    ],
+    "country": "CA",
+    "continent": "North America",
+    "url": "https://ca.linkedin.com/jobs/view/data-engineer-at-indoc-research-1547130340?refId=99873a90-4276-4655-8153-891259221677&position=15&pageNum=0&trk=guest_job_search_job-result-card_result-card_full-click",
+    "eng-level": "Mid-Senior"
+}

@@ -1,0 +1,32 @@
+{
+    "index": 1342,
+    "title": "Data Engineer",
+    "location": "Berlin, Berlin, Germany",
+    "level": "Mittl. Management",
+    "skills": [
+        "aws",
+        "etl",
+        "r",
+        "linux",
+        "programming",
+        "git",
+        "python",
+        "airflow",
+        "data warehouse",
+        "google cloud",
+        "business intelligence",
+        "algorithm",
+        "machine learning",
+        "sql",
+        "scala",
+        "pandas",
+        "statistics",
+        "jenkins",
+        "javascript",
+        "rest"
+    ],
+    "country": "DE",
+    "continent": "Europe",
+    "url": "https://de.linkedin.com/jobs/view/data-engineer-at-wargaming-1492586195?refId=faffdf0c-d5f5-452e-be73-8105135054d4&position=25&pageNum=0&trk=guest_job_search_job-result-card_result-card_full-click",
+    "eng-level": "Senior"
+}

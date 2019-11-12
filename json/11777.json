@@ -1,0 +1,26 @@
+{
+    "index": 11777,
+    "title": "Data Engineer",
+    "location": "Toronto, Canada Area",
+    "level": "Mid-Senior level",
+    "skills": [
+        "python",
+        "flume",
+        "storm",
+        "etl",
+        "airflow",
+        "sql",
+        "kafka",
+        "spark",
+        "programming",
+        "hive",
+        "agile",
+        "http",
+        "hadoop",
+        "luigi"
+    ],
+    "country": "CA",
+    "continent": "North America",
+    "url": "https://ca.linkedin.com/jobs/view/data-engineer-at-rakuten-kobo-inc-1490313273?refId=c617cfea-279c-4218-b8cb-c9308561529e&position=22&pageNum=0&trk=guest_job_search_job-result-card_result-card_full-click",
+    "eng-level": "Mid-Senior"
+}

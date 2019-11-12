@@ -1,0 +1,32 @@
+{
+    "index": 14316,
+    "title": "Data engineer Location Intelligence",
+    "location": "Edegem, Flemish Region, Belgium",
+    "level": "Associate",
+    "skills": [
+        "hbase",
+        "aws",
+        "linux",
+        "kafka",
+        "data wrangling",
+        "hive",
+        "python",
+        "nosql",
+        "oracle",
+        "mongodb",
+        "postgres",
+        "azure",
+        "java",
+        "pig",
+        "sql",
+        "scala",
+        "cassandra",
+        "mapreduce",
+        "spark",
+        "hadoop"
+    ],
+    "country": "BE",
+    "continent": "Europe",
+    "url": "https://be.linkedin.com/jobs/view/data-engineer-location-intelligence-at-locus-1550709442?refId=1321f309-4578-44b2-854d-fcd0cfaa3192&position=22&pageNum=0&trk=guest_job_search_job-result-card_result-card_full-click",
+    "eng-level": "Associate"
+}

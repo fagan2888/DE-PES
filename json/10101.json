@@ -1,0 +1,26 @@
+{
+    "index": 10101,
+    "title": "Big Data Engineer",
+    "location": "Buenos Aires, Argentina",
+    "level": "No corresponde",
+    "skills": [
+        "python",
+        "hdfs",
+        "linux",
+        "spark",
+        "hadoop",
+        "map reduce",
+        "hive",
+        "bash",
+        "scala",
+        "elasticsearch",
+        "java",
+        "ambari",
+        "oozie",
+        "scripting"
+    ],
+    "country": "AR",
+    "continent": "South America",
+    "url": "https://ar.linkedin.com/jobs/view/big-data-engineer-at-retargetly-1547715647?refId=766d85e9-74ce-4fa4-b503-6e7a0223b222&position=24&pageNum=0&trk=guest_job_search_job-result-card_result-card_full-click",
+    "eng-level": "Not specified"
+}

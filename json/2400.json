@@ -1,0 +1,27 @@
+{
+    "index": 2400,
+    "title": "Data Engineer",
+    "location": "Berlin, Berlin, Deutschland",
+    "level": "Associate",
+    "skills": [
+        "python",
+        "nosql",
+        "java",
+        "google cloud",
+        "s3",
+        "aws",
+        "hdfs",
+        "r",
+        "airflow",
+        "scala",
+        "programming",
+        "oozie",
+        "hive",
+        "azure",
+        "redshift"
+    ],
+    "country": "DE",
+    "continent": "Europe",
+    "url": "https://de.linkedin.com/jobs/view/data-engineer-at-durstexpress-gmbh-1521133824?refId=c033d8e7-986e-44d5-a11c-a288e4634c62&position=21&pageNum=0&trk=guest_job_search_job-result-card_result-card_full-click",
+    "eng-level": "Associate"
+}

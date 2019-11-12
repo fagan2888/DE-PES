@@ -1,0 +1,32 @@
+{
+    "index": 5164,
+    "title": "Data Engineer",
+    "location": "Mechelen, Flemish Region, Belgium",
+    "level": "Mid-Senior level",
+    "skills": [
+        "machine learning",
+        "r",
+        "docker",
+        "hadoop",
+        "python",
+        "ai",
+        "java",
+        "aws",
+        "airflow",
+        "programming",
+        "git",
+        "kubernetes",
+        "sql",
+        "elasticsearch",
+        "flink",
+        "redshift",
+        "scala",
+        "functional",
+        "spark",
+        "kafka"
+    ],
+    "country": "BE",
+    "continent": "Europe",
+    "url": "https://be.linkedin.com/jobs/view/data-engineer-at-ixor-1506515921?refId=0fe8de43-1960-4916-b87e-46555c79bf2b&position=15&pageNum=0&trk=guest_job_search_job-result-card_result-card_full-click",
+    "eng-level": "Mid-Senior"
+}

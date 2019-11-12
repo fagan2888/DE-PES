@@ -1,0 +1,28 @@
+{
+    "index": 19374,
+    "title": "Data Engineer",
+    "location": "Berlin, DE",
+    "level": "Berufseinsteiger",
+    "skills": [
+        "microservices",
+        "nosql",
+        "java",
+        "kubernetes",
+        "aws",
+        "backend",
+        "flink",
+        "functional",
+        "os",
+        "machine learning",
+        "sql",
+        "kafka",
+        "scala",
+        "spark",
+        "postgres",
+        "programming"
+    ],
+    "country": "DE",
+    "continent": "Europe",
+    "url": "https://de.linkedin.com/jobs/view/data-engineer-at-nubank-1371610196?refId=23de11f7-e83a-4a00-9627-16cf8fa9a90e&position=20&pageNum=0&trk=guest_job_search_job-result-card_result-card_full-click",
+    "eng-level": "Entry level"
+}

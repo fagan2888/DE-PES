@@ -1,0 +1,30 @@
+{
+    "index": 10800,
+    "title": "Data Engineer",
+    "location": "Toronto, Ontario, Canada",
+    "level": "Mid-Senior level",
+    "skills": [
+        "python",
+        "elasticsearch",
+        "nosql",
+        "java",
+        "statistics",
+        "jenkins",
+        "mongodb",
+        "etl",
+        "javascript",
+        "algorithm",
+        "machine learning",
+        "sql",
+        "postgres",
+        "devops",
+        "programming",
+        "mathematics",
+        "docker",
+        "git"
+    ],
+    "country": "CA",
+    "continent": "North America",
+    "url": "https://ca.linkedin.com/jobs/view/data-engineer-at-lift-co-1509131818?refId=c64715ee-ff59-46fc-9d91-0533344138a7&position=2&pageNum=0&trk=guest_job_search_job-result-card_result-card_full-click",
+    "eng-level": "Mid-Senior"
+}

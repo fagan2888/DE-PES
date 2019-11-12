@@ -1,0 +1,32 @@
+{
+    "index": 11561,
+    "title": "Data Engineer",
+    "location": "Ahmedabad, IN",
+    "level": "Entry level",
+    "skills": [
+        "hadoop",
+        "scripting",
+        "mapreduce",
+        "sql",
+        "numpy",
+        "mongodb",
+        "encryption",
+        "cassandra",
+        "pandas",
+        "algorithm",
+        "aws",
+        "azure",
+        "git",
+        "spark",
+        "python",
+        "security",
+        "etl",
+        "programming",
+        "google cloud",
+        "data warehouse"
+    ],
+    "country": "IN",
+    "continent": "Asia",
+    "url": "https://in.linkedin.com/jobs/view/data-engineer-at-tatvic-analytics-1513462073?refId=d930ea6e-6b4e-4454-bef0-f91211846235&position=2&pageNum=0&trk=guest_job_search_job-result-card_result-card_full-click",
+    "eng-level": "Entry level"
+}

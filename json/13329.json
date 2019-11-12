@@ -1,0 +1,23 @@
+{
+    "index": 13329,
+    "title": "Data Engineer",
+    "location": "Bologna, Emilia-Romagna, Italy",
+    "level": "Livello medio",
+    "skills": [
+        "nodejs",
+        "s3",
+        "aws",
+        "functional",
+        "data lake",
+        "algorithm",
+        "spark",
+        "data structures",
+        "data architecture",
+        "rest",
+        "redshift"
+    ],
+    "country": "IT",
+    "continent": "Europe",
+    "url": "https://it.linkedin.com/jobs/view/data-engineer-at-doveconviene-shopfully-international-group-1497150044?refId=7b4f86b5-d550-4e89-b029-3003f5d25aa5&position=6&pageNum=0&trk=guest_job_search_job-result-card_result-card_full-click",
+    "eng-level": "Associate"
+}

@@ -1,0 +1,30 @@
+{
+    "index": 19041,
+    "title": "Data Engineer",
+    "location": "Jakarta, ID",
+    "level": "Tingkat pemula",
+    "skills": [
+        "python",
+        "scripting",
+        "nosql",
+        "cassandra",
+        "java",
+        "statistics",
+        "storm",
+        "etl",
+        "airflow",
+        "sql",
+        "kafka",
+        "scala",
+        "spark",
+        "postgres",
+        "oozie",
+        "data pipeline",
+        "data structures",
+        "hadoop"
+    ],
+    "country": "ID",
+    "continent": "Asia",
+    "url": "https://id.linkedin.com/jobs/view/data-engineer-at-pt-multipolar-tbk-1565841916?refId=e78b00dc-1f9c-4db4-a9ad-c321276c880b&position=19&pageNum=0&trk=guest_job_search_job-result-card_result-card_full-click",
+    "eng-level": "Entry level"
+}

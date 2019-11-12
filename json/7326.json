@@ -1,0 +1,29 @@
+{
+    "index": 7326,
+    "title": "Data Engineer",
+    "location": "S\u00e3o Paulo e Regi\u00e3o",
+    "level": "Pleno-s\u00eanior",
+    "skills": [
+        "flume",
+        "nosql",
+        "cassandra",
+        "hbase",
+        "aws",
+        "mongodb",
+        "etl",
+        "mapreduce",
+        "hdfs",
+        "os",
+        "sqoop",
+        "data cleaning",
+        "spark",
+        "programming",
+        "hive",
+        "data architecture",
+        "hadoop"
+    ],
+    "country": "BR",
+    "continent": "South America",
+    "url": "https://br.linkedin.com/jobs/view/data-engineer-at-fsk-gest%C3%A3o-tecnologia-1506567720?refId=002c2240-e693-47aa-99f8-8813d0544435&position=1&pageNum=0&trk=guest_job_search_job-result-card_result-card_full-click",
+    "eng-level": "Senior"
+}

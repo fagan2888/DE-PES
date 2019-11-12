@@ -1,0 +1,29 @@
+{
+    "index": 177,
+    "title": "Data Engineer",
+    "location": "Toronto, Ontario, Canada",
+    "level": "Associate",
+    "skills": [
+        "python",
+        "security",
+        "tableau",
+        "s3",
+        "aws",
+        "etl",
+        "business intelligence",
+        "functional",
+        "data lake",
+        "devops",
+        "sql",
+        "data pipeline",
+        "azure data factory",
+        "data architecture",
+        "azure",
+        "data warehouse",
+        "redshift"
+    ],
+    "country": "CA",
+    "continent": "North America",
+    "url": "https://ca.linkedin.com/jobs/view/data-engineer-at-munich-re-canada-1535608200?refId=c93c153b-400f-42d9-8e18-064e6749796c&position=21&pageNum=0&trk=guest_job_search_job-result-card_result-card_full-click",
+    "eng-level": "Associate"
+}

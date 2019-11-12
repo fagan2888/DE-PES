@@ -1,0 +1,32 @@
+{
+    "index": 19160,
+    "title": "Data Engineer",
+    "location": "Edinburgh, GB",
+    "level": "Entry level",
+    "skills": [
+        "business intelligence",
+        "ruby",
+        "hive",
+        "etl",
+        "airflow",
+        "aws",
+        "tableau",
+        "data warehouse",
+        "python",
+        "postgres",
+        "mahout",
+        "spark",
+        "machine learning",
+        "scikit",
+        "programming",
+        "redshift",
+        "sql",
+        "vertica",
+        "project management",
+        "numpy"
+    ],
+    "country": "UK",
+    "continent": "Europe",
+    "url": "https://uk.linkedin.com/jobs/view/data-engineer-at-usertesting-1566246685?refId=4bb1afb3-50b1-4648-bf0f-bf4338907c0b&position=22&pageNum=0&trk=guest_job_search_job-result-card_result-card_full-click",
+    "eng-level": "Entry level"
+}

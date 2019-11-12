@@ -1,0 +1,25 @@
+{
+    "index": 5205,
+    "title": "Big Data Engineer",
+    "location": "Ho Chi Minh City, VN",
+    "level": "Entry level",
+    "skills": [
+        "hadoop",
+        "redshift",
+        "google cloud",
+        "python",
+        "c",
+        "aws",
+        "airflow",
+        "data pipeline",
+        "sql",
+        "spark",
+        "luigi",
+        "kafka",
+        "programming"
+    ],
+    "country": "VN",
+    "continent": "Asia",
+    "url": "https://vn.linkedin.com/jobs/view/big-data-engineer-at-tiki-corporation-1562427793?refId=28d5710a-73f9-4d72-b693-6ddf588f9e7c&position=9&pageNum=0&trk=guest_job_search_job-result-card_result-card_full-click",
+    "eng-level": "Entry level"
+}

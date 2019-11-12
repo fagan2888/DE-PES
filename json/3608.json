@@ -1,0 +1,28 @@
+{
+    "index": 3608,
+    "title": "Data Engineer",
+    "location": "Paris",
+    "level": "Premier emploi",
+    "skills": [
+        "python",
+        "computer vision",
+        "deep learning",
+        "google cloud",
+        "kubernetes",
+        "jenkins",
+        "r",
+        "airflow",
+        "machine learning",
+        "os",
+        "devops",
+        "sql",
+        "wms",
+        "docker",
+        "git",
+        "luigi"
+    ],
+    "country": "FR",
+    "continent": "Europe",
+    "url": "https://fr.linkedin.com/jobs/view/data-engineer-at-brut-1551711589?refId=3fef9383-22e6-4fa4-8c6c-71f07442756d&position=12&pageNum=0&trk=guest_job_search_job-result-card_result-card_full-click",
+    "eng-level": "Entry level"
+}

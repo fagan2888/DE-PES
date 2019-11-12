@@ -1,0 +1,28 @@
+{
+    "index": 3452,
+    "title": "Data Engineer",
+    "location": "Valencia, Spain",
+    "level": "Mando intermedio",
+    "skills": [
+        "python",
+        "statistics",
+        "aws",
+        "probability",
+        "ai",
+        "algorithm",
+        "machine learning",
+        "linux",
+        "sql",
+        "postgres",
+        "spark",
+        "django",
+        "hadoop",
+        "docker",
+        "redshift",
+        "deep learning"
+    ],
+    "country": "ES",
+    "continent": "Europe",
+    "url": "https://es.linkedin.com/jobs/view/data-engineer-at-digilant-1489585990?refId=4652bb76-f5ae-454e-b389-01fbee9f9a9d&position=7&pageNum=0&trk=guest_job_search_job-result-card_result-card_full-click",
+    "eng-level": "Associate"
+}

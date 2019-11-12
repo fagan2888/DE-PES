@@ -1,0 +1,26 @@
+{
+    "index": 5897,
+    "title": "Data Engineer",
+    "location": "Toronto, CA",
+    "level": "Mid-Senior level",
+    "skills": [
+        "java",
+        "machine learning",
+        "nosql",
+        "etl",
+        "airflow",
+        "python",
+        "spark",
+        "data warehouse",
+        "hive",
+        "hadoop",
+        "snowflake",
+        "scala",
+        "apache beam",
+        "google cloud"
+    ],
+    "country": "CA",
+    "continent": "North America",
+    "url": "https://ca.linkedin.com/jobs/view/data-engineer-at-sada-1490384380?refId=70505cc4-16f0-40c1-a3dd-fe699fa83eb3&position=20&pageNum=0&trk=guest_job_search_job-result-card_result-card_full-click",
+    "eng-level": "Mid-Senior"
+}

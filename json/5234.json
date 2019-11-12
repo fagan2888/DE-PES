@@ -1,0 +1,26 @@
+{
+    "index": 5234,
+    "title": "Database Engineer",
+    "location": "Budapest, HU",
+    "level": "Associate",
+    "skills": [
+        "mpp",
+        "snowflake",
+        "oracle",
+        "hdfs",
+        "azure",
+        "etl",
+        "server",
+        "greenplum",
+        "sql",
+        "programming",
+        "spark",
+        "agile",
+        "hadoop",
+        "sql server"
+    ],
+    "country": "HU",
+    "continent": "Europe",
+    "url": "https://hu.linkedin.com/jobs/view/database-engineer-at-morgan-stanley-1527351780?refId=e8c14238-9a85-4f84-9955-e82ebc07e63c&position=22&pageNum=0&trk=guest_job_search_job-result-card_result-card_full-click",
+    "eng-level": "Associate"
+}

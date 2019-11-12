@@ -1,0 +1,33 @@
+{
+    "index": 6053,
+    "title": "Big Data Engineer",
+    "location": "Athens, Attiki, Greece",
+    "level": "Mid-Senior level",
+    "skills": [
+        "postgres",
+        "sql",
+        "scikit",
+        "mongodb",
+        "kafka",
+        "apache beam",
+        "spark",
+        "machine learning",
+        "algorithm",
+        "ai",
+        "elasticsearch",
+        "java",
+        "deep learning",
+        "etl",
+        "r",
+        "redis",
+        "programming",
+        "data warehouse",
+        "data cleaning",
+        "nosql",
+        "python"
+    ],
+    "country": "GR",
+    "continent": "Europe",
+    "url": "https://gr.linkedin.com/jobs/view/big-data-engineer-at-velti-1487689533?refId=08e97ef7-d650-4699-b462-afae93d37cd3&position=1&pageNum=0&trk=guest_job_search_job-result-card_result-card_full-click",
+    "eng-level": "Mid-Senior"
+}

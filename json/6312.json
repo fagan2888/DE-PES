@@ -1,0 +1,26 @@
+{
+    "index": 6312,
+    "title": "Data Engineer",
+    "location": "Berlin, DE",
+    "level": "Berufseinsteiger",
+    "skills": [
+        "python",
+        "snowflake",
+        "tableau",
+        "s3",
+        "aws",
+        "etl",
+        "business intelligence",
+        "airflow",
+        "functional",
+        "sql",
+        "cli",
+        "programming",
+        "agile",
+        "git"
+    ],
+    "country": "DE",
+    "continent": "Europe",
+    "url": "https://de.linkedin.com/jobs/view/data-engineer-at-8fit-1303516546?refId=a9165e2c-a91e-4128-8748-24b8ee5d4620&position=2&pageNum=0&trk=guest_job_search_job-result-card_result-card_full-click",
+    "eng-level": "Entry level"
+}

@@ -1,0 +1,27 @@
+{
+    "index": 368,
+    "title": "Data Engineer",
+    "location": "London, GB",
+    "level": "Entry level",
+    "skills": [
+        "python",
+        "scripting",
+        "nosql",
+        "snowflake",
+        "etl",
+        "airflow",
+        "functional",
+        "sql",
+        "kafka",
+        "spark",
+        "programming",
+        "agile",
+        "data structures",
+        "data warehouse",
+        "luigi"
+    ],
+    "country": "UK",
+    "continent": "Europe",
+    "url": "https://uk.linkedin.com/jobs/view/data-engineer-at-sony-music-entertainment-1564170781?refId=4bb1afb3-50b1-4648-bf0f-bf4338907c0b&position=7&pageNum=0&trk=guest_job_search_job-result-card_result-card_full-click",
+    "eng-level": "Entry level"
+}

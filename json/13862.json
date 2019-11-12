@@ -1,0 +1,27 @@
+{
+    "index": 13862,
+    "title": "Data Engineer",
+    "location": "Singapore",
+    "level": "Associate",
+    "skills": [
+        "kafka",
+        "python",
+        "jenkins",
+        "sql",
+        "spark",
+        "data pipeline",
+        "map reduce",
+        "hive",
+        "network",
+        "security",
+        "scala",
+        "flume",
+        "java",
+        "maven",
+        "hadoop"
+    ],
+    "country": "SG",
+    "continent": "Asia",
+    "url": "https://sg.linkedin.com/jobs/view/data-engineer-at-trustwave-1455637890?refId=81abc04e-1008-4d01-8b1c-781470b5c877&position=20&pageNum=0&trk=guest_job_search_job-result-card_result-card_full-click",
+    "eng-level": "Associate"
+}

@@ -1,0 +1,23 @@
+{
+    "index": 12005,
+    "title": "Data Engineer",
+    "location": "Sydney, AU",
+    "level": "Entry level",
+    "skills": [
+        "python",
+        "nosql",
+        "data lake",
+        "impala",
+        "pig",
+        "sql",
+        "azure data factory",
+        "programming",
+        "mathematics",
+        "hive",
+        "azure"
+    ],
+    "country": "AU",
+    "continent": "Australia",
+    "url": "https://au.linkedin.com/jobs/view/data-engineer-at-morgan-mckinley-1537037973?refId=9622792d-9890-4396-8c37-3691a32bc0f6&position=22&pageNum=0&trk=guest_job_search_job-result-card_result-card_full-click",
+    "eng-level": "Entry level"
+}

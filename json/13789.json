@@ -1,0 +1,31 @@
+{
+    "index": 13789,
+    "title": "Data Engineer",
+    "location": "Montreal, Canada Area",
+    "level": "Mid-Senior level",
+    "skills": [
+        "security",
+        "aws",
+        "etl",
+        "devops",
+        "programming",
+        "git",
+        "python",
+        "scripting",
+        "airflow",
+        "functional",
+        "agile",
+        "docker",
+        "kubernetes",
+        "sql",
+        "luigi",
+        "pandas",
+        "jenkins",
+        "data lake",
+        "spark"
+    ],
+    "country": "CA",
+    "continent": "North America",
+    "url": "https://ca.linkedin.com/jobs/view/data-engineer-at-ssense-1498345516?refId=0ad2ad90-586c-41b4-806a-868d21bf269e&position=24&pageNum=0&trk=guest_job_search_job-result-card_result-card_full-click",
+    "eng-level": "Mid-Senior"
+}

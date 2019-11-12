@@ -1,0 +1,27 @@
+{
+    "index": 4040,
+    "title": "Data Engineer",
+    "location": "Munich, DE",
+    "level": "Berufseinsteiger",
+    "skills": [
+        "python",
+        "elasticsearch",
+        "nosql",
+        "solr",
+        "aws",
+        "azure",
+        "etl",
+        "ai",
+        "machine learning",
+        "pig",
+        "kafka",
+        "spark",
+        "programming",
+        "hive",
+        "hadoop"
+    ],
+    "country": "DE",
+    "continent": "Europe",
+    "url": "https://de.linkedin.com/jobs/view/data-engineer-at-nordcloud-1527333027?refId=251ca2db-7ff5-495b-a7d5-4893a5a1bb7f&position=2&pageNum=0&trk=guest_job_search_job-result-card_result-card_full-click",
+    "eng-level": "Entry level"
+}

@@ -1,0 +1,25 @@
+{
+    "index": 3897,
+    "title": "Data Engineer",
+    "location": "Sydney, AU",
+    "level": "Mid-Senior level",
+    "skills": [
+        "python",
+        "etl",
+        "r",
+        "airflow",
+        "server",
+        "devops",
+        "sql",
+        "data pipeline",
+        "spark",
+        "programming",
+        "c#",
+        "hadoop",
+        "sql server"
+    ],
+    "country": "AU",
+    "continent": "Australia",
+    "url": "https://au.linkedin.com/jobs/view/data-engineer-at-rea-group-1509017021?refId=7cc68305-721a-4656-9e65-e69140b73f0b&position=21&pageNum=0&trk=guest_job_search_job-result-card_result-card_full-click",
+    "eng-level": "Mid-Senior"
+}

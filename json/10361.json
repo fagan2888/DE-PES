@@ -1,0 +1,23 @@
+{
+    "index": 10361,
+    "title": "Data Engineer",
+    "location": "Toronto, CA",
+    "level": "Entry level",
+    "skills": [
+        "postgres",
+        "etl",
+        "airflow",
+        "python",
+        "data warehouse",
+        "aws",
+        "programming",
+        "agile",
+        "data lake",
+        "spark",
+        "apache nifi"
+    ],
+    "country": "CA",
+    "continent": "North America",
+    "url": "https://ca.linkedin.com/jobs/view/data-engineer-at-isg-international-search-group-1524408338?refId=07220d14-9012-4f27-8587-576681b880a1&position=25&pageNum=0&trk=guest_job_search_job-result-card_result-card_full-click",
+    "eng-level": "Entry level"
+}

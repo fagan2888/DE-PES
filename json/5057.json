@@ -1,0 +1,31 @@
+{
+    "index": 5057,
+    "title": "Data Engineer",
+    "location": "Calgary, CA",
+    "level": "Entry level",
+    "skills": [
+        "aws",
+        "kafka",
+        "c++",
+        "programming",
+        "hive",
+        "redshift",
+        "python",
+        "mongodb",
+        "postgres",
+        "azure",
+        "java",
+        "pig",
+        "sql",
+        "scala",
+        "c",
+        "cassandra",
+        "mapreduce",
+        "spark",
+        "hadoop"
+    ],
+    "country": "CA",
+    "continent": "North America",
+    "url": "https://ca.linkedin.com/jobs/view/data-engineer-at-mobsquad-901697849?refId=d5b3feb6-381a-43ba-8356-3d111b894b8b&position=10&pageNum=0&trk=guest_job_search_job-result-card_result-card_full-click",
+    "eng-level": "Entry level"
+}

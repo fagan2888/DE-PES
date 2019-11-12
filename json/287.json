@@ -1,0 +1,31 @@
+{
+    "index": 287,
+    "title": "Big Data Engineer",
+    "location": "Bologna, IT",
+    "level": "Livello medio-alto",
+    "skills": [
+        "flume",
+        "hbase",
+        "aws",
+        "etl",
+        "kafka",
+        "hive",
+        "nosql",
+        "mongodb",
+        "functional",
+        "impala",
+        "agile",
+        "s3",
+        "pig",
+        "cassandra",
+        "storm",
+        "hdfs",
+        "mapreduce",
+        "spark",
+        "hadoop"
+    ],
+    "country": "IT",
+    "continent": "Europe",
+    "url": "https://it.linkedin.com/jobs/view/big-data-engineer-at-yoox-net-a-porter-group-1496913641?refId=1c0b5122-6b7c-41ff-a517-1a08a92d27c5&position=21&pageNum=0&trk=guest_job_search_job-result-card_result-card_full-click",
+    "eng-level": "Mid-Senior"
+}

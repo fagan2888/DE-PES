@@ -1,0 +1,25 @@
+{
+    "index": 2223,
+    "title": "Data Engineer",
+    "location": "Paris Area, France",
+    "level": "Manager",
+    "skills": [
+        "python",
+        "nosql",
+        "s3",
+        "aws",
+        "etl",
+        "r",
+        "airflow",
+        "sql",
+        "kafka",
+        "scala",
+        "spark",
+        "presto",
+        "redshift"
+    ],
+    "country": "FR",
+    "continent": "Europe",
+    "url": "https://fr.linkedin.com/jobs/view/data-engineer-at-manomano-1468041692?refId=55e7439d-7bea-4d7c-85a0-ddb58429d010&position=25&pageNum=0&trk=guest_job_search_job-result-card_result-card_full-click",
+    "eng-level": "Director"
+}

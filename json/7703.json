@@ -1,0 +1,31 @@
+{
+    "index": 7703,
+    "title": "Data science engineer",
+    "location": "Halle, Flanders, Belgium",
+    "level": "Entry level",
+    "skills": [
+        "etl",
+        "r",
+        "linux",
+        "kafka",
+        "hive",
+        "python",
+        "airflow",
+        "impala",
+        "data warehouse",
+        "scikit",
+        "business intelligence",
+        "machine learning",
+        "sql",
+        "yarn",
+        "scala",
+        "hadoop",
+        "hdfs",
+        "spark",
+        "rest"
+    ],
+    "country": "BE",
+    "continent": "Europe",
+    "url": "https://be.linkedin.com/jobs/view/data-science-engineer-at-colruyt-group-1509114659?refId=c2149b4e-8622-42fd-84d8-43a9a7c47d5b&position=11&pageNum=0&trk=guest_job_search_job-result-card_result-card_full-click",
+    "eng-level": "Entry level"
+}

@@ -1,0 +1,27 @@
+{
+    "index": 9430,
+    "title": "Data Engineer",
+    "location": "Shanghai City, China",
+    "level": "\u4e2d\u9ad8\u7ea7",
+    "skills": [
+        "python",
+        "security",
+        "etl",
+        "linux",
+        "javascript",
+        "data lake",
+        "machine learning",
+        "sql",
+        "kafka",
+        "devops",
+        "spark",
+        "data architecture",
+        "hadoop",
+        "docker",
+        "redshift"
+    ],
+    "country": "CN",
+    "continent": "Asia",
+    "url": "https://cn.linkedin.com/jobs/view/data-engineer-at-artefact-1506558171?refId=e5a8711e-2118-4c48-807c-c91f6c9c76a0&position=3&pageNum=0&trk=guest_job_search_job-result-card_result-card_full-click",
+    "eng-level": "Mid-Senior"
+}

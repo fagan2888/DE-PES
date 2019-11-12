@@ -1,0 +1,33 @@
+{
+    "index": 12579,
+    "title": "Data Engineer",
+    "location": "Toronto, CA",
+    "level": "Not Applicable",
+    "skills": [
+        "programming",
+        "hive",
+        "python",
+        "oracle",
+        "airflow",
+        "functional",
+        "mathematics",
+        "agile",
+        "data structures",
+        "docker",
+        "oop",
+        "elasticsearch",
+        "java",
+        "kubernetes",
+        "server",
+        "algorithm",
+        "machine learning",
+        "sql",
+        "scala",
+        "sql server",
+        "hadoop"
+    ],
+    "country": "CA",
+    "continent": "North America",
+    "url": "https://ca.linkedin.com/jobs/view/data-engineer-at-rbc-1509088393?refId=b91abfbe-5a8b-4f0e-9d54-fbc296a7a299&position=20&pageNum=0&trk=guest_job_search_job-result-card_result-card_full-click",
+    "eng-level": "Not specified"
+}

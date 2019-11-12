@@ -1,0 +1,29 @@
+{
+    "index": 13687,
+    "title": "Data Engineer",
+    "location": "Luxembourg, LU",
+    "level": "Premier emploi",
+    "skills": [
+        "python",
+        "nosql",
+        "oracle",
+        "hbase",
+        "storm",
+        "mongodb",
+        "etl",
+        "hdfs",
+        "r",
+        "server",
+        "data lake",
+        "sql",
+        "kafka",
+        "spark",
+        "hive",
+        "hadoop",
+        "sql server"
+    ],
+    "country": "LU",
+    "continent": "Europe",
+    "url": "https://lu.linkedin.com/jobs/view/data-engineer-at-post-luxembourg-1451030851?refId=6e7186e3-65d3-41a1-90cc-275fefa1535d&position=14&pageNum=0&trk=guest_job_search_job-result-card_result-card_full-click",
+    "eng-level": "Entry level"
+}

@@ -1,0 +1,24 @@
+{
+    "index": 5204,
+    "title": "Data Engineer",
+    "location": "San Francisco Bay Area",
+    "level": "Mid-Senior level",
+    "skills": [
+        "python",
+        "nosql",
+        "aws",
+        "azure",
+        "machine learning",
+        "sql",
+        "kafka",
+        "spark",
+        "agile",
+        "hadoop",
+        "data warehouse",
+        "redshift"
+    ],
+    "country": "US",
+    "continent": "North America",
+    "url": "https://www.linkedin.com/jobs/view/data-engineer-at-microagility-1497142570?refId=7659c4e3-750f-4732-9311-f84760664a8c&position=17&pageNum=0&trk=guest_job_search_job-result-card_result-card_full-click",
+    "eng-level": "Mid-Senior"
+}

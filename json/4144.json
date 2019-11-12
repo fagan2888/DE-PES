@@ -1,0 +1,23 @@
+{
+    "index": 4144,
+    "title": "Data Engineer",
+    "location": "Salt Lake City, Utah, United States",
+    "level": "Mid-Senior level",
+    "skills": [
+        "python",
+        "nosql",
+        "cassandra",
+        "s3",
+        "aws",
+        "mongodb",
+        "data pipeline",
+        "postgres",
+        "rest",
+        "django",
+        "git"
+    ],
+    "country": "US",
+    "continent": "North America",
+    "url": "https://www.linkedin.com/jobs/view/data-engineer-at-lucerna-health-1492562441?refId=a09f37cd-9dc8-49a0-9f3d-75d3b4af9371&position=6&pageNum=0&trk=guest_job_search_job-result-card_result-card_full-click",
+    "eng-level": "Mid-Senior"
+}

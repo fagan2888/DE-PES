@@ -1,0 +1,32 @@
+{
+    "index": 7370,
+    "title": "Data Engineer",
+    "location": "Stratford, Connecticut, United States",
+    "level": "Mid-Senior level",
+    "skills": [
+        "hbase",
+        "aws",
+        "etl",
+        "r",
+        "kafka",
+        "hive",
+        "redshift",
+        "python",
+        "solr",
+        "mongodb",
+        "impala",
+        "java",
+        "s3",
+        "scala",
+        "cassandra",
+        "mapreduce",
+        "spark",
+        "oozie",
+        "sap",
+        "hadoop"
+    ],
+    "country": "US",
+    "continent": "North America",
+    "url": "https://www.linkedin.com/jobs/view/data-engineer-at-donatech-corporation-1560821041?refId=da38cbfb-acd8-4f1f-b7f8-e794855fddae&position=19&pageNum=0&trk=guest_job_search_job-result-card_result-card_full-click",
+    "eng-level": "Mid-Senior"
+}

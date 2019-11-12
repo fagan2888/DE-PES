@@ -1,0 +1,28 @@
+{
+    "index": 4771,
+    "title": "Data Engineer",
+    "location": "Bratislava, SK",
+    "level": "Entry level",
+    "skills": [
+        "python",
+        "java",
+        "google cloud",
+        "storm",
+        "aws",
+        "flink",
+        "airflow",
+        "algorithm",
+        "kafka",
+        "scala",
+        "spark",
+        "c++",
+        "programming",
+        "data structures",
+        "hadoop",
+        "luigi"
+    ],
+    "country": "SK",
+    "continent": "Europe",
+    "url": "https://sk.linkedin.com/jobs/view/data-engineer-at-unlimit-recruitment-1280239791?refId=41564c54-f689-4959-a17d-bfc1df0bc441&position=10&pageNum=0&trk=guest_job_search_job-result-card_result-card_full-click",
+    "eng-level": "Entry level"
+}

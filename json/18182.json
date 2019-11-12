@@ -1,0 +1,25 @@
+{
+    "index": 18182,
+    "title": "Data engineer",
+    "location": "Amsterdam, NL",
+    "level": "Instapniveau",
+    "skills": [
+        "python",
+        "snowflake",
+        "tableau",
+        "java",
+        "kubernetes",
+        "aws",
+        "mongodb",
+        "mapreduce",
+        "sql",
+        "postgres",
+        "spark",
+        "programming",
+        "docker"
+    ],
+    "country": "NL",
+    "continent": "Europe",
+    "url": "https://nl.linkedin.com/jobs/view/data-engineer-at-echt-ict-1415123771?refId=b6ce371e-bae9-435b-8750-bdf2b69d6fff&position=17&pageNum=0&trk=guest_job_search_job-result-card_result-card_full-click",
+    "eng-level": "Entry level"
+}
