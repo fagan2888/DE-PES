@@ -4,6 +4,7 @@ import pandas as pd
 import csv
 
 def load_jobs(path):
+    if path == None: return []
     jobs = []
     for fn in os.listdir(path):
         index = int(fn.split('.')[0])
@@ -57,6 +58,9 @@ class Jobs:
 
     def __init__(self, path="./json"):
         self.jobs = load_jobs(path)
+        self.initialize_data(self.jobs)
+    
+    def initialize_data(self, jobs):
         # compute global skill percentages
         self.skills = set()
         for job in self.jobs:
@@ -93,6 +97,9 @@ class Jobs:
         for l in self.levels:
             self.skills_per_level[l] = compute_skill_percents(self.skills, self.jobs_by_level[l])
         self.sorted_skills = get_sorted_skills(self.skills, self.skill_percents)
+
+    def get_skill_percents(self, jobs):
+        return compute_skill_percents(self.skills, jobs)
 
 
     def frequent_skill_sets(self, threshold, max_size, verbose=False):
