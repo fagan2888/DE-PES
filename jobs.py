@@ -153,7 +153,7 @@ class Jobs:
                         fs[size].append(SkillSet(skill_set.skills + [skill], 100 * freq, sup, i))
         return fs
 
-    def skill_sets_to_csv(self, skill_sets, filename):
+    def skill_sets_to_csv(self, skill_sets, filename, include_indexes=False):
         rows = [ ]
         for size in skill_sets:
             skill_sets[size].sort()
@@ -161,7 +161,10 @@ class Jobs:
                 s.skills.sort()
                 indexes = list(s.support)
                 indexes.sort()
-                rows.append([size, round(s.percent, 2)] + s.skills + indexes)
+                row = [size, round(s.percent, 2)] + s.skills
+                if include_indexes:
+                    row += indexes
+                rows.append(row)
         with open('csv/{}.csv'.format(filename), mode='w') as f:
             writer = csv.writer(f)
             for row in rows:
